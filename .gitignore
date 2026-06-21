@@ -1,0 +1,14 @@
+# Compiled object files
+*.o
+*.obj
+
+# Compiled binary
+quiz
+quiz.exe
+
+# Editor / IDE
+.vscode/
+*.swp
+
+# OS files
+.DS_Store
