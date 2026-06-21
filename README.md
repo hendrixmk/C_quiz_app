@@ -105,5 +105,4 @@ exercise applying core C concepts (loops, conditionals, functions, structs)
 to a small but complete, working program.
 
 ## License
-
-MIT — see [LICENSE](LICENSE).
+GPLv3 | If anyone modifies and distributes it must also open-source their version under GPL.
